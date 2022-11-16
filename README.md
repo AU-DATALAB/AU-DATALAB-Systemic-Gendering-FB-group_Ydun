@@ -1,10 +1,6 @@
-# AU-DATALAB-Systemic-Gendering-FB-group_Ydun
-# Title:Systemic Gendering in Facebook Group Participation 
-# Authors
-Jiyoung Ydun Kim (jiyoung@cc.au.dk)
-Riccardo Fusaroli (fusaroli@gmail.com)
-Han Woo Park (han.woo.park.korea@gmail.com)
-Anja Bechmann (anjabechmann@cc.au.dk)
-# Journal : Social Media + Society
-# Keywords : participation, network size, open–closed–secret Facebook Groups, gender inequality, privacy, BRMS
-# You can find the article here: https://doi.org/10.1177/20563051211064906
+# Systemic Gendering in Facebook Group Participation
+ABSTRACT: Communication is increasingly taking place in Facebook Groups around the world. Yet, we have little scientific knowledge of Facebook Groups at scale, especially the extent to which general systemic gendering is a pattern in participation in such groups. This knowledge deficit is problematic for digitalized and data-driven democratic societies. Therefore, this article aims to investigate gender differences in open, closed, and secret Facebook Groups. The study relies on a unique large-scale Facebook Group dataset from a sample that reflects the gender of Facebook users and the Facebook Groups they belong to in both Denmark and South Korea. By applying Bayesian models and developing a notion of participation that consists of both structural and actual participation, the study finds that the relation between country, gender, and participation is strongly modulated by gender differences. Females are more engaged than males in Denmark, while the opposite is true for South Korea. In both countries, privacy affects females’ participation more than males’. This article contributes to the field by presenting new large-scale findings that explore gender differences on three levels of Facebook Group privacy settings (open, closed, and secret) in a hitherto understudied communication space and, by doing so, it highlights the importance of privacy and country in predicting systemic gendering.
+
+Kim, J. Y., Fusaroli, R., Park, H. W., & Bechmann, A. (2021). Systemic Gendering in Facebook Group Participation. Social Media + Society, 7(4). https://doi.org/10.1177/20563051211064906
+
+Contact: Jiyoung Ydun Kim (jiyoung@cc.au.dk), Riccardo Fusaroli (fusaroli@gmail.com), Han Woo Park (han.woo.park.korea@gmail.com), Anja Bechmann (anjabechmann@cc.au.dk)
